@@ -74,7 +74,6 @@ metadata:
     repository: https://github.com/nmstate/kubernetes-nmstate
     support: nmstate.io
   name: kubernetes-nmstate-operator.v0.0.1
-  namespace: placeholder
 spec:
   apiservicedefinitions: {}
   customresourcedefinitions:
