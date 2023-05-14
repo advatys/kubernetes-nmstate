@@ -6,4 +6,4 @@ spec:
   approval: Manual
   approved: true
   clusterServiceVersionNames:
-    - kubevirt-hyperconverged-operator.v1.8.2
+    - kubernetes-nmstate-operator.v0.0.1
