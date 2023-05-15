@@ -1,5 +1,5 @@
 apiVersion: operators.coreos.com/v1alpha1
-kind: operatorGroup
+kind: InstallPlan
   name: install-nmstate
   namespace: kubevirt-hyperconverged
 spec:
