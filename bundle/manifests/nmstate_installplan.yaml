@@ -7,3 +7,9 @@ spec:
   approved: true
   clusterServiceVersionNames:
     - kubernetes-nmstate-operator.v0.0.1
+---
+apiVersion: operators.coreos.com/v1
+kind: OperatorGroup
+metadata:
+  name: nmstate-test
+spec: {}
