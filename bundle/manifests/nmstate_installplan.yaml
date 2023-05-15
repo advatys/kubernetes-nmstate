@@ -8,7 +8,6 @@ spec: {}
 apiVersion: operators.coreos.com/v1alpha1
 kind: InstallPlan
   name: install-nmstate
-  namespace: kubevirt-hyperconverged
 spec:
   approval: Manual
   approved: true
